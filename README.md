@@ -144,9 +144,3 @@ This project is a CLI-based personal finance management system that allows users
 B.Tech CSE, VIT Bhopal University
 
 ---
-
-## ⭐ Acknowledgment
-
-Built as a college project to demonstrate financial tracking, budgeting, and data persistence using C++.
-
----
